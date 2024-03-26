@@ -6,7 +6,7 @@ namespace Restaurant.Core.Domain.Entities
     {
         public int TableId { get; set; }
         public double SubTotal { get; set; }
-        public string Status { get; set; }
+        public int Status { get; set; }
 
         //navigation property
         public Table Table { get; set; }

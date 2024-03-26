@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Infrastructure.Identity.deps.json
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Infrastructure.Identity.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Infrastructure.Identity.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Core.Application.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Core.Domain.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Core.Application.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\bin\Debug\net6.0\Restaurant.Core.Domain.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.AssemblyInfo.cs
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.csproj.CopyComplete
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\refint\Restaurant.Infrastructure.Identity.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\Restaurant.Infrastructure.Identity.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Infrastructure.Identity\obj\Debug\net6.0\ref\Restaurant.Infrastructure.Identity.dll

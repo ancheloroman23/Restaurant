@@ -1,0 +1,17 @@
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Application.deps.json
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Application.runtimeconfig.json
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Application.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Application.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Domain.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\bin\Debug\net6.0\Restaurant.Core.Domain.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.AssemblyInfo.cs
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.csproj.CopyComplete
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\refint\Restaurant.Core.Application.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\Restaurant.Core.Application.genruntimeconfig.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Application\obj\Debug\net6.0\ref\Restaurant.Core.Application.dll

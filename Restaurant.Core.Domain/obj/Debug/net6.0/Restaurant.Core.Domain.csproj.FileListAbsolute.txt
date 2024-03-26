@@ -1,0 +1,11 @@
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\bin\Debug\net6.0\Restaurant.Core.Domain.deps.json
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\bin\Debug\net6.0\Restaurant.Core.Domain.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\bin\Debug\net6.0\Restaurant.Core.Domain.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.AssemblyInfo.cs
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\refint\Restaurant.Core.Domain.dll
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\Restaurant.Core.Domain.pdb
+C:\xampp\htdocs\Restaurant\Restaurant.Core.Domain\obj\Debug\net6.0\ref\Restaurant.Core.Domain.dll

@@ -21,7 +21,7 @@ namespace Retaurant.WebApi.Extensions
                     {
                         Name = "Anchelo Roman",
                         Email = "ancheloroman23@gmail.com",
-                        Url = new Uri("https://t.me/ANCRC0")
+                        Url = new Uri("https://www.instagram.com/ancheloroman7/")
                     }
                 });
 
@@ -33,7 +33,7 @@ namespace Retaurant.WebApi.Extensions
                     Type = SecuritySchemeType.ApiKey,
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
-                    Description = "Input your Bearer token in this format - Bearer {your token here}"
+                    Description = "Ingrese su token de portador en este formato: Bearer {token}"
                 });
                 options.AddSecurityRequirement(new OpenApiSecurityRequirement
                 {

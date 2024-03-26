@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Retaurant.WebApi.props" />
+</Project>
